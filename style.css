@@ -1,0 +1,25 @@
+
+*{
+    border: none;
+    outline: none;
+    font-family: system-ui;
+    font-size: 35px;
+}
+#container{
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    color: #f2f2f2;
+    font-size: 13px;
+}
+.body{
+    border-radius: 10px;
+    display: flex;
+    padding: 2rem;
+    background: #c842ff;
+    overflow: hidden;
+}
+#btn:hover{
+    cursor: pointer;
+    background: #fafafa;
+}
